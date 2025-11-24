@@ -2,9 +2,8 @@
 
 <div align="center">
 
-**Building the Future of Smart Contracts on Kadena**
+**Building the Future of Smart Contracts**
 
-[![Kadena](https://img.shields.io/badge/Powered%20by-Kadena-FF0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXc8b3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDMTMuMSAyIDE0IDIuOSAxNCA0VjE2QzE0IDE3LjEgMTMuMSAxOCA5LjUgMTguNUM2LjkgMTguNSA2IDE3LjYgNiAxNlY0QzYgMi45IDYuOSAyIDggMkgxNkMxNy4xIDIgMTggMi45IDE4IDRWMTJDMTggMTMuMSAxNy4xIDE0IDE2IDE0SDEyQzEwLjkgMTQgMTAgMTMuMSAxMCAxMloiIGZpbGw9IiNGRjAwMDAiLz4KPC9zdmc+)](https://kadena.io)
 [![Discord](https://img.shields.io/discord/1234567890?color=5865F2&label=Join%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/pact-community)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fpact-community.org&style=for-the-badge&label=Visit%20Website)](https://pact-community.org)
 
@@ -16,9 +15,9 @@
 
 ## 🚀 **Our Mission**
 
-**To make it easy and safe for businesses to start building on Kadena.**
+**To make it easy and safe for businesses to start building with smart contracts.**
 
-We provide a trusted, community-driven ecosystem where developers can confidently deploy reusable Pact smart contracts, backed by rigorous auditing, comprehensive documentation, and transparent governance.
+We provide a trusted, community-driven ecosystem where developers can confidently deploy reusable smart contracts, backed by rigorous auditing, comprehensive documentation, and transparent governance.
 
 ## 🎯 **What We Do**
 
@@ -139,7 +138,7 @@ We operate as a **transparent, community-driven nonprofit organization** with:
 
 — **DeFi Protocol Team**
 
-*"As a new developer to Kadena, the PCO's resources and community support were invaluable. I went from zero to deploying my first smart contract in just two weeks!"*
+*"As a new developer to blockchain, the PCO's resources and community support were invaluable. I went from zero to deploying my first smart contract in just two weeks!"*
 
 — **Community Developer**
 
@@ -153,10 +152,10 @@ We operate as a **transparent, community-driven nonprofit organization** with:
 ## 🙏 **Acknowledgments**
 
 We extend our gratitude to:
-- **Kadena** for their support and partnership
 - **Our Contributors** for their dedication and expertise
 - **The Blockchain Community** for continuous innovation
 - **Security Researchers** for keeping our ecosystem safe
+- **Open Source Community** for collaborative development
 
 ---
 
