@@ -40,25 +40,15 @@ A curated collection of audited, production-ready Pact smart contracts covering:
 - **Educational Content**: Workshops, webinars, and learning materials
 - **Tooling**: Development tools, testing frameworks, and utilities
 
-## 📊 **Our Impact**
-
-<div align="center">
-
-| 📈 **Contracts Audited** | 👥 **Community Members** | 🔧 **Active Contributors** | ⭐ **GitHub Stars** |
-|:---:|:---:|:---:|:---:|
-| 50+ | 100+ | 25+ | 500+ |
-
-</div>
-
 ## 🏗️ **Key Repositories**
 
 ### [**pact-contract-catalog**](https://github.com/Pact-Community-Organization/pact-contract-catalog)
-*Catalog of audited Pact smart contracts with comprehensive testing and documentation*
+*Starting point for Pact smart contract development with examples and testing infrastructure*
 
-- ✅ **50+ Production-Ready Contracts**
-- ✅ **Full Test Coverage** with automated CI/CD
-- ✅ **Security Audited** by third-party experts
-- ✅ **Comprehensive Documentation**
+- 📝 **Example Contracts** to learn from and build upon
+- 🧪 **Testing Framework** for contract validation
+- 📚 **Documentation** and development guides
+- 🤝 **Community Contributions** welcome
 
 ### [**foundation**](https://pact-community.org)
 *Organizational governance, policies, and community resources*
@@ -131,16 +121,6 @@ We operate as a **transparent, community-driven nonprofit organization** with:
 - 🛡️ **Security by Design**: Security considerations in every decision
 - 🌍 **Global Community**: Welcoming contributors from around the world
 - 📈 **Continuous Improvement**: Regular process reviews and updates
-
-## 🎉 **Success Stories**
-
-*"The Pact Community Organization provided the foundation we needed to launch our DeFi protocol with confidence. Their audited contracts and comprehensive documentation saved us months of development time."*
-
-— **DeFi Protocol Team**
-
-*"As a new developer to blockchain, the PCO's resources and community support were invaluable. I went from zero to deploying my first smart contract in just two weeks!"*
-
-— **Community Developer**
 
 ## 📞 **Contact & Support**
 
