@@ -2,9 +2,10 @@
 
 <div align="center">
 
-**Building the Future of Smart Contracts**
+**Building the Foundation for Pact Smart Contracts**
 
-[![Discord](https://img.shields.io/discord/1234567890?color=5865F2&label=Join%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/pact-community)
+[![Twitter](https://img.shields.io/twitter/follow/PactCommOrg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PactCommOrg)
+[![Telegram](https://img.shields.io/badge/Join_Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PactCommunityOrg)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fpact-community.org&style=for-the-badge&label=Visit%20Website)](https://pact-community.org)
 
 *Empowering developers to build secure, scalable dApps with confidence*
@@ -23,22 +24,20 @@ We provide a trusted, community-driven ecosystem where developers can confidentl
 
 ### 📚 **Contract Catalog**
 A curated collection of audited, production-ready Pact smart contracts covering:
-- **DeFi Protocols**: Token standards, DEXes, lending platforms
-- **NFT Solutions**: Marketplace contracts, collection management
-- **DAO Governance**: Voting systems, treasury management
-- **Cross-Chain Bridges**: Multi-chain interoperability
+- **Example Contracts**: Starting with hello-world and growing through community contributions
+- **Testing Framework**: Tools for contract validation and development
+- **Community Audits**: Peer-reviewed contracts for security and reliability
 
 ### 🔒 **Security & Auditing**
-- **Comprehensive Testing**: Every contract includes extensive test suites
-- **Security Audits**: Third-party security reviews for critical contracts
-- **Bug Bounty Program**: Active rewards for vulnerability discoveries
+- **Community Testing**: Every contract includes test suites
+- **Peer Reviews**: Community-driven security assessments
 - **Best Practices**: Documentation of secure development patterns
 
 ### 🌐 **Developer Resources**
-- **Documentation Hub**: Complete guides, tutorials, and API references
-- **Community Support**: Discord community with expert developers
-- **Educational Content**: Workshops, webinars, and learning materials
-- **Tooling**: Development tools, testing frameworks, and utilities
+- **Documentation Hub**: Complete guides, tutorials, and references
+- **Community Support**: Twitter and Telegram for discussions and updates
+- **Educational Content**: Learning materials and development guides
+- **Tooling**: Development tools and testing frameworks
 
 ## 🏗️ **Key Repositories**
 
@@ -77,7 +76,6 @@ We believe in **open collaboration** and welcome contributors at all levels. Whe
 # Start contributing today!
 git clone https://github.com/Pact-Community-Organization/pact-contract-catalog.git
 cd pact-contract-catalog
-npm install && npm test
 ```
 
 - **Submit Contracts**: Add new audited smart contracts to the catalog
@@ -87,9 +85,8 @@ npm install && npm test
 
 #### 🔧 **For Security Researchers**
 - **Audit Contracts**: Participate in security reviews
-- **Bug Bounties**: Earn rewards for finding vulnerabilities
-- **Security Research**: Publish findings and best practices
 - **Code Reviews**: Help maintain security standards
+- **Security Research**: Publish findings and best practices
 
 #### 📚 **For Community Builders**
 - **Content Creation**: Write tutorials and educational materials
@@ -101,7 +98,8 @@ npm install && npm test
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Join_our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pact-community)
+[![Twitter](https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PactCommOrg)
+[![Telegram](https://img.shields.io/badge/Join_Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PactCommunityOrg)
 [![GitHub Discussions](https://img.shields.io/badge/Join_Discussions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pact-Community-Organization/foundation/discussions)
 [![Contributing Guide](https://img.shields.io/badge/Read_Contributing_Guide-FF6B35?style=for-the-badge)](https://github.com/Pact-Community-Organization/foundation/blob/main/community/CONTRIBUTING.md)
 
@@ -125,7 +123,8 @@ We operate as a **transparent, community-driven nonprofit organization** with:
 ## 📞 **Contact & Support**
 
 - **📧 Email**: info@pact-community.org
-- **💬 Discord**: [Join our community](https://discord.gg/pact-community)
+- **🐦 Twitter**: [@PactCommOrg](https://twitter.com/PactCommOrg) for announcements
+- **💬 Telegram**: [t.me/PactCommunityOrg](https://t.me/PactCommunityOrg) for community chat
 - **🐛 Issues**: [Report bugs](https://github.com/Pact-Community-Organization/foundation/issues)
 - **💡 Discussions**: [Share ideas](https://github.com/Pact-Community-Organization/foundation/discussions)
 
