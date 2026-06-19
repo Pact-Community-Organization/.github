@@ -7,5 +7,5 @@ contact_links:
     url: https://github.com/Pact-Community-Organization/foundation/discussions
     about: Open-ended proposals and design ideas belong in Discussions, not the issue tracker.
   - name: Report a Security Vulnerability (Private)
-    url: https://github.com/Pact-Community-Organization/.github/blob/main/SECURITY.md
+    url: https://github.com/Pact-Community-Organization/.github/blob/master/SECURITY.md
     about: Never file security issues publicly — follow the Security Policy to report privately.

@@ -25,14 +25,14 @@ them together. Filing a request is **not** a commitment from maintainers to buil
 ## I found a security vulnerability
 
 **Do not open a public issue.** See our
-[Security Policy](https://github.com/Pact-Community-Organization/.github/blob/main/SECURITY.md)
+[Security Policy](https://github.com/Pact-Community-Organization/.github/blob/master/SECURITY.md)
 and report privately via a GitHub Security Advisory.
 
 ## Response expectations
 
 These are community-maintained, best-effort projects. We aim to acknowledge new
 issues within a couple of business days. There is no paid SLA. Please be patient
-and kind — see our [Code of Conduct](https://github.com/Pact-Community-Organization/.github/blob/main/CODE_OF_CONDUCT.md).
+and kind — see our [Code of Conduct](https://github.com/Pact-Community-Organization/.github/blob/master/CODE_OF_CONDUCT.md).
 
 ## What is not a support channel
 
@@ -43,3 +43,4 @@ visible and actionable, please file it on GitHub using the options above.
 - 🐦 Twitter/X: [@PactCommOrg](https://twitter.com/PactCommOrg)
 - 💬 Telegram: [t.me/PactCommunityOrg](https://t.me/PactCommunityOrg)
 - 📧 Email: info@pact-community.org
+
